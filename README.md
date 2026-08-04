@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/Soumili-Code/https-github.com-Soumili-Code-DSA/tree/master/0037-sudoku-solver) |
+| [0039-combination-sum](https://github.com/Soumili-Code/Soumili-Code-DSA-From-leetcode/tree/main/LeetCode/Medium/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Soumili-Code/Soumili-Code-DSA-From-leetcode/tree/main/0040-combination-sum-ii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/Soumili-Code/https-github.com-Soumili-Code-DSA/tree/master/0037-sudoku-solver) |
+| [0039-combination-sum](https://github.com/Soumili-Code/Soumili-Code-DSA-From-leetcode/tree/main/LeetCode/Medium/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Soumili-Code/Soumili-Code-DSA-From-leetcode/tree/main/0040-combination-sum-ii/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
