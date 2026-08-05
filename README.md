@@ -40,3 +40,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0060-permutation-sequence](https://github.com/Soumili-Code/https-github.com-Soumili-Code-DSA/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
+
+<!-- COMMITDSA_START -->
+# DSA Portfolio
+
+Welcome to my DSA solutions portfolio! This repository contains my solved problems on LeetCode and GeeksforGeeks, synchronized automatically using [CommitDSA](https://github.com/aprshubh/CommitDSA).
+
+## Statistics
+
+| Platform | Total Solved | Easy | Medium | Hard |
+| --- | --- | --- | --- | --- |
+| LeetCode | 1 | 0 | 1 | 0 |
+| GeeksforGeeks | 0 | 0 | 0 | 0 |
+| **Total** | **1** | **0** | **1** | **0** |
+
+## Solved Problems
+
+| # | Problem | Platform | Difficulty | Language | Code |
+| --- | --- | --- | --- | --- | --- |
+| 1 | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | LeetCode | Medium | JAVA | [Code](./LinkedList/19_RemoveNthNodeFromEndOfList.java) |
+<!-- COMMITDSA_END -->
