@@ -50,15 +50,16 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 
 | Platform | Total Solved | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- |
-| LeetCode | 2 | 1 | 1 | 0 |
+| LeetCode | 3 | 2 | 1 | 0 |
 | GeeksforGeeks | 1 | 1 | 0 | 0 |
-| **Total** | **3** | **2** | **1** | **0** |
+| **Total** | **4** | **3** | **1** | **0** |
 
 ## Solved Problems
 
 | # | Problem | Platform | Difficulty | Language | Code |
 | --- | --- | --- | --- | --- | --- |
-| 1 | [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | LeetCode | Easy | JAVA | [Code](./Stack_Queue/225_ImplementStackUsingQueues.java) |
-| 2 | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | LeetCode | Medium | JAVA | [Code](./LinkedList/19_RemoveNthNodeFromEndOfList.java) |
-| 3 | [Min Heap implementation](https://practice.geeksforgeeks.org/problems/min-heap-implementation/1) | GeeksforGeeks | Easy | JAVA | [Code](./Heap/0_MinHeapImplementation.java) |
+| 1 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | LeetCode | Easy | JAVA | [Code](./Stack_Queue/20_ValidParentheses.java) |
+| 2 | [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | LeetCode | Easy | JAVA | [Code](./Stack_Queue/225_ImplementStackUsingQueues.java) |
+| 3 | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | LeetCode | Medium | JAVA | [Code](./LinkedList/19_RemoveNthNodeFromEndOfList.java) |
+| 4 | [Min Heap implementation](https://practice.geeksforgeeks.org/problems/min-heap-implementation/1) | GeeksforGeeks | Easy | JAVA | [Code](./Heap/0_MinHeapImplementation.java) |
 <!-- COMMITDSA_END -->
