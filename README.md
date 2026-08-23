@@ -50,9 +50,9 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 
 | Platform | Total Solved | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- |
-| LeetCode | 7 | 3 | 3 | 1 |
+| LeetCode | 8 | 3 | 4 | 1 |
 | GeeksforGeeks | 1 | 1 | 0 | 0 |
-| **Total** | **8** | **4** | **3** | **1** |
+| **Total** | **9** | **4** | **4** | **1** |
 
 ## Solved Problems
 
@@ -64,6 +64,7 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 4 | [155. Min Stack](https://leetcode.com/problems/min-stack/) | LeetCode | Medium | JAVA | [Code](./Stack_Queue/155_MinStack.java) |
 | 5 | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | LeetCode | Medium | JAVA | [Code](./LinkedList/19_RemoveNthNodeFromEndOfList.java) |
 | 6 | [503. Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | LeetCode | Medium | JAVA | [Code](./Stack_Queue/503_NextGreaterElementII.java) |
-| 7 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | LeetCode | Hard | JAVA | [Code](./2-pointer/42_TrappingRainWater.java) |
-| 8 | [Min Heap implementation](https://practice.geeksforgeeks.org/problems/min-heap-implementation/1) | GeeksforGeeks | Easy | JAVA | [Code](./Heap/0_MinHeapImplementation.java) |
+| 7 | [907. Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/) | LeetCode | Medium | JAVA | [Code](./Stack_Queue/907_SumOfSubarrayMinimums.java) |
+| 8 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | LeetCode | Hard | JAVA | [Code](./2-pointer/42_TrappingRainWater.java) |
+| 9 | [Min Heap implementation](https://practice.geeksforgeeks.org/problems/min-heap-implementation/1) | GeeksforGeeks | Easy | JAVA | [Code](./Heap/0_MinHeapImplementation.java) |
 <!-- COMMITDSA_END -->
