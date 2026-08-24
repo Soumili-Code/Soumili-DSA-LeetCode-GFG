@@ -50,9 +50,9 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 
 | Platform | Total Solved | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- |
-| LeetCode | 8 | 3 | 4 | 1 |
+| LeetCode | 9 | 3 | 5 | 1 |
 | GeeksforGeeks | 1 | 1 | 0 | 0 |
-| **Total** | **9** | **4** | **4** | **1** |
+| **Total** | **10** | **4** | **5** | **1** |
 
 ## Solved Problems
 
@@ -63,8 +63,9 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 3 | [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | LeetCode | Easy | JAVA | [Code](./Stack_Queue/496_NextGreaterElementI.java) |
 | 4 | [155. Min Stack](https://leetcode.com/problems/min-stack/) | LeetCode | Medium | JAVA | [Code](./Stack_Queue/155_MinStack.java) |
 | 5 | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | LeetCode | Medium | JAVA | [Code](./LinkedList/19_RemoveNthNodeFromEndOfList.java) |
-| 6 | [503. Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | LeetCode | Medium | JAVA | [Code](./Stack_Queue/503_NextGreaterElementII.java) |
-| 7 | [907. Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/) | LeetCode | Medium | JAVA | [Code](./Stack_Queue/907_SumOfSubarrayMinimums.java) |
-| 8 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | LeetCode | Hard | JAVA | [Code](./2-pointer/42_TrappingRainWater.java) |
-| 9 | [Min Heap implementation](https://practice.geeksforgeeks.org/problems/min-heap-implementation/1) | GeeksforGeeks | Easy | JAVA | [Code](./Heap/0_MinHeapImplementation.java) |
+| 6 | [2104. Sum of Subarray Ranges](https://leetcode.com/problems/sum-of-subarray-ranges/) | LeetCode | Medium | JAVA | [Code](./Stack_Queue/2104_SumOfSubarrayRanges.java) |
+| 7 | [503. Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | LeetCode | Medium | JAVA | [Code](./Stack_Queue/503_NextGreaterElementII.java) |
+| 8 | [907. Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/) | LeetCode | Medium | JAVA | [Code](./Stack_Queue/907_SumOfSubarrayMinimums.java) |
+| 9 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | LeetCode | Hard | JAVA | [Code](./2-pointer/42_TrappingRainWater.java) |
+| 10 | [Min Heap implementation](https://practice.geeksforgeeks.org/problems/min-heap-implementation/1) | GeeksforGeeks | Easy | JAVA | [Code](./Heap/0_MinHeapImplementation.java) |
 <!-- COMMITDSA_END -->
