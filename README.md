@@ -50,9 +50,9 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 
 | Platform | Total Solved | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- |
-| LeetCode | 10 | 3 | 6 | 1 |
+| LeetCode | 11 | 3 | 6 | 2 |
 | GeeksforGeeks | 1 | 1 | 0 | 0 |
-| **Total** | **11** | **4** | **6** | **1** |
+| **Total** | **12** | **4** | **6** | **2** |
 
 ## Solved Problems
 
@@ -68,5 +68,6 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 8 | [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | LeetCode | Medium | JAVA | [Code](./Stack_Queue/735_AsteroidCollision.java) |
 | 9 | [907. Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/) | LeetCode | Medium | JAVA | [Code](./Stack_Queue/907_SumOfSubarrayMinimums.java) |
 | 10 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | LeetCode | Hard | JAVA | [Code](./2-pointer/42_TrappingRainWater.java) |
-| 11 | [Min Heap implementation](https://practice.geeksforgeeks.org/problems/min-heap-implementation/1) | GeeksforGeeks | Easy | JAVA | [Code](./Heap/0_MinHeapImplementation.java) |
+| 11 | [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | LeetCode | Hard | JAVA | [Code](./LeetCode/Stack_Queue/84_LargestRectangleInHistogram.java) |
+| 12 | [Min Heap implementation](https://practice.geeksforgeeks.org/problems/min-heap-implementation/1) | GeeksforGeeks | Easy | JAVA | [Code](./Heap/0_MinHeapImplementation.java) |
 <!-- COMMITDSA_END -->
